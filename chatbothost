@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botpress Web Chat</title>
+    <script src="https://cdn.botpress.cloud/webchat/v2.1/inject.js"></script>
+    <script src="https://mediafiles.botpress.cloud/625bdb3f-2101-4bf8-ba76-c6115cca238c/webchat/v2.1/config.js"></script>
+</head>
+<body>
+    <!-- The Botpress web chat will be injected here -->
+</body>
+</html>
